@@ -27,7 +27,7 @@ const Footer = () => {
             ullam, nesciunt ex laudantium quidem error sint, eum explicabo.
           </p>
           <p>
-            <span>Email:</span>zk@gmail.com
+            <span>Email:</span>srishivansh22@gmail.com
           </p>
           <p>
             <span>Phone:</span>0123987123
@@ -65,7 +65,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="container">
-        <div className="logo">ZETA <span>BLOG</span></div>
+        <div className="logo">Colt <span>Blogs</span></div>
         <div className="links">
           <Link to={"/"} target="_blank">
             <AiFillInstagram />
@@ -73,7 +73,7 @@ const Footer = () => {
           <Link to={"/"} target="_blank">
             <FaGitSquare />
           </Link>
-          <Link to={"https://www.youtube.com/@CodeWithZeeshu"} target="_blank">
+          <Link to={"https://www.youtube.com/@ConfusedColt"} target="_blank">
             <AiFillYoutube />
           </Link>
           <Link to={"/"} target="_blank">
