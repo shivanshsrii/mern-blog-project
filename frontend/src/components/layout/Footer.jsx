@@ -66,9 +66,7 @@ const Footer = () => {
       </div>
       <div className="container">
         <div className="logo">Colt <span>Blogs</span></div>
-        <div class="end">
-        <p>Copyright © 2024 Colt Blogs All Rights Reserved.Website developed by: Shivansh Srivastava</p>
-        </div>
+        <div className="logo">Copyright © 2024 Colt Blogs All Rights Reserved. Website developed by: Shivansh Srivastava</div>
         <div className="links">
           <Link to={"/"} target="_blank">
             <AiFillInstagram />
